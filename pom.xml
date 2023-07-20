@@ -16,7 +16,7 @@
         <maven.compiler.target>1.10</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <slf4jVersion>1.7.25</slf4jVersion>
-        <junitVersion>4.12</junitVersion>
+        <junitVersion>4.13.1</junitVersion>
         <objenesisVersion>2.6</objenesisVersion>
         <mavenCompilerVersion>3.8.0</mavenCompilerVersion>
         <mavenSurefireVersion>3.0.0-M1</mavenSurefireVersion>
